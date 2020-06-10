@@ -1,3 +1,5 @@
+This code is associated with the paper from de Gee et al., "Pupil-linked phasic arousal predicts a reduction of choice bias across species and decision domains". eLife, 2020. http://doi.org/10.7554/eLife.54014
+
 # 2020_eLife_pupil_bias
 
 Copyright (c) 2020 Jan Willem de Gee
